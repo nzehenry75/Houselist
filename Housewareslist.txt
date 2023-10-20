@@ -5,3 +5,6 @@ s/n name
 4   dish washer
 5   throw pillosgit
 6   Dinning Table
+7   Dinning Chairs
+8   Rug
+9   TV Stand
